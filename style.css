@@ -1,6 +1,34 @@
+html {
+  .navbar li a:hover {
+            background-color: #555; /* 鼠标悬停时的背景色 */
+        }
+
 @font-face {
   font-family: "Titan One";
   src: url('TitanOne-Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
+}
+
+nav ol{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+nav li{
+  float: left;
+}
+
+a {
+  color: #00b5ff;
+}
+
+a:hover {
+  color:#0088bd;
+}
+
+nav li a {
+  display: block;
 }
