@@ -1,3 +1,7 @@
+html {
+  font-family: "Titan One" !important;
+}
+
 @font-face {
   font-family: "Titan One";
   src: url("TitanOne-Regular.ttf") format("truetype");
