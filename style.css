@@ -1,11 +1,10 @@
 html {
-  .navbar li a:hover {
-            background-color: #555; /* 鼠标悬停时的背景色 */
-        }
+  width: "80%";
+}
 
 @font-face {
   font-family: "Titan One";
-  src: url('TitanOne-Regular.ttf') format('truetype');
+  src: url("TitanOne-Regular.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
