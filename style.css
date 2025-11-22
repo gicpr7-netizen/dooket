@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "Titan One";
+  src: url('TitanOne-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.svgfont {
+  font-family: 'Titan One', sans-serif;
+}
